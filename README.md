@@ -229,7 +229,7 @@ Esta estructura es ideal para:
 
 # ⭐ Autor
 
-Desarrollado como plantilla base para proyectos Angular con arquitectura modular y escalable.
+Desarrollado como plantilla base para proyectos Angular con arquitectura modular y escalable. 
 
 ---
 
