@@ -1,4 +1,3 @@
 # Guards
 
-Aquí van los guards globales del sistema.
-Ejemplo: AuthGuard, RoleGuard.
+Aquí van los guards globales.
