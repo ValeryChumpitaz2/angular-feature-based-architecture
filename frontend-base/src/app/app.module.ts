@@ -16,8 +16,8 @@ import { AppComponent } from './app.component';
 import { DashboardComponent } from './features/dashboard/pages/dashboard/dashboard.component';
 import { CursosComponent } from './features/cursos/pages/cursos/cursos.component';
 import { PanelComponent } from './features/panel/pages/panel/panel.component';
- 
-@NgModule({
+import { EstudiantesComponent } from './features/estudiantes/pages/estudiantes/estudiantes.component'; 
+@NgModule({ 
   declarations: [
     AppComponent, 
     HeaderComponent,
@@ -30,6 +30,7 @@ import { PanelComponent } from './features/panel/pages/panel/panel.component';
     DashboardComponent,
     CursosComponent,
     PanelComponent,
+    EstudiantesComponent,
     HomeComponent
   ],  
   imports: [

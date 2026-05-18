@@ -5,8 +5,7 @@ import { HomeComponent } from './features/home/pages/home/home.component';
 import { CursosComponent } from './features/cursos/pages/cursos/cursos.component';
 import { DashboardComponent } from './features/dashboard/pages/dashboard/dashboard.component';
 import { PanelComponent } from './features/panel/pages/panel/panel.component';
-
-
+import { EstudiantesComponent } from './features/estudiantes/pages/estudiantes/estudiantes.component';
 const routes: Routes = [
 
   {
@@ -32,8 +31,12 @@ const routes: Routes = [
       {
         path: 'cursos',
         component: CursosComponent
+      },
+      
+      {
+        path: 'estudiantes',
+        component: EstudiantesComponent
       }
-
     ]
   }
 
